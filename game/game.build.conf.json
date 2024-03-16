@@ -1,7 +1,7 @@
 {
   "package": {
-    "productName": "My QspiderGame",
-    "version": "1.0.0"
+    "productName": "6",
+    "version": "1.1.0"
   },
   "build": {
     "distDir": "../dist/apps/player-standalone",
@@ -13,23 +13,18 @@
       "active": true,
       "targets": "all",
       "identifier": "my.game.id",
-      "publisher": "qSpider games",
-      "copyright": "werewolf",
+      "publisher": "Medici",
+      "copyright": "Medici",
       "category": "Game",
       "shortDescription": "",
       "longDescription": ""
     },
     "updater": {
-      "active": true,
-      "endpoints": [
-        ""
-      ],
-      "dialog": true,
-      "pubkey": ""
+      "active": false
     },
     "windows": [
       {
-        "title": "My Game",
+        "title": "6",
         "width": 1024,
         "height": 768,
         "center": true,
