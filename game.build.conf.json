@@ -20,7 +20,7 @@
       "longDescription": ""
     },
     "updater": {
-      "active": true,
+      "active": false,
       "endpoints": [
         ""
       ],
