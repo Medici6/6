@@ -20,12 +20,7 @@
       "longDescription": ""
     },
     "updater": {
-      "active": false,
-      "endpoints": [
-        ""
-      ],
-      "dialog": true,
-      "pubkey": ""
+      "active": false
     },
     "windows": [
       {
