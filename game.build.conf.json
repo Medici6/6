@@ -12,7 +12,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "my.game.id",
+      "identifier": "my",
       "publisher": "Medici",
       "copyright": "Medici",
       "category": "Game",
