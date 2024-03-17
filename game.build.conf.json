@@ -1,11 +1,10 @@
 {
   "package": {
-    "productName": "6",
-    "version": "1.0.0"
+    "productName": "6"
   },
   "build": {
     "distDir": "../dist/apps/player-standalone",
-    "beforeBuildCommand": "npm run build:standalone-desktop",
+    "beforeBuildCommand": "npm run tauri build:standalone-desktop",
     "withGlobalTauri": false
   },
   "tauri": {
