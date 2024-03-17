@@ -12,12 +12,12 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "my",
+      "identifier": "6",
       "publisher": "Medici",
       "copyright": "Medici",
       "category": "Game",
-      "shortDescription": "",
-      "longDescription": ""
+      "shortDescription": "6",
+      "longDescription": "6"
     },
     "updater": {
       "active": false
