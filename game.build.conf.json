@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "6"
+    "productName": "sixttt"
   },
   "build": {
     "distDir": "../dist/apps/player-standalone",
@@ -11,19 +11,19 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "6",
+      "identifier": "sixttt",
       "publisher": "Medici",
       "copyright": "Medici",
       "category": "Game",
-      "shortDescription": "6",
-      "longDescription": "6"
+      "shortDescription": "sixttt",
+      "longDescription": "sixttt"
     },
     "updater": {
       "active": false
     },
     "windows": [
       {
-        "title": "6",
+        "title": "sixttt",
         "width": 1024,
         "height": 768,
         "center": true,
