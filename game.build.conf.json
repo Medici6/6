@@ -4,7 +4,7 @@
   },
   "build": {
     "distDir": "../dist/apps/player-standalone",
-    "beforeBuildCommand": "npm run tauri build:standalone-desktop",
+    "beforeBuildCommand": "npm run build:standalone-desktop",
     "withGlobalTauri": false
   },
   "tauri": {
